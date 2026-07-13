@@ -1,0 +1,32 @@
+Day 2 单词自测 —— 在箭头后面填中文意思，填完告诉我
+
+ 1. dramatic        →急剧的
+ 2. eliminate       →估算
+ 3. emerge          →出现
+ 4. emphasis        →强调
+ 5. encounter       →偶遇
+ 6. enhance         →提高
+ 7. enormous        →奇怪的
+ 8. equivalent      →
+ 9. evaluate        →评价
+10. eventually      →最终
+11. evident         →估算
+12. exceed          →超出
+13. explicit        →
+14. exploit         →
+15. external        →向外的
+16. facilitate      →
+17. flexible        →灵活的
+18. fluctuate       →
+19. fundamental     →基本的
+20. generate        →产生
+21. guarantee       →保证
+22. identical       →确定的
+23. illustrate      →阐述
+24. implement       →暗示
+25. implicit        →
+26. inevitable      →
+27. infrastructure  →基础
+28. innovation      →创新
+29. investigate     →投资
+30. justify         →证明
