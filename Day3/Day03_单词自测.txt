@@ -1,0 +1,32 @@
+Day 3 单词自测 —— 在箭头后面填中文意思，填完告诉我
+
+ 1. maintain        →维护
+ 2. mechanism       →机械设备
+ 3. minority        →最小值
+ 4. negotiate       →协商
+ 5. nevertheless    →从不
+ 6. objective       →目标 客观的
+ 7. obstacle        →阻碍
+ 8. occupation      →出现
+ 9. participate     →参加
+10. perceive        →观察
+11. phenomenon      →情况
+12. potential       →潜在的
+13. precisely       →有价值的
+14. predominant     →统治
+15. presumably      →大概
+16. priority        →优先
+17. profound        →提升
+18. proportion      →部分
+19. psychological   →心理的
+20. pursue          →购买
+21. rational        →辐射
+22. readily         →准备好的
+23. register        →邀请
+24. regulate        →规律
+25. reject          →拒绝
+26. release         →减少
+27. relevant        →相关的
+28. reluctant       →规则
+29. resolve         →解决
+30. restrict        →限制
