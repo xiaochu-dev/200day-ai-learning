@@ -1,0 +1,70 @@
+Day 7 单词自测 — 六级高频词 #181-210
+============================================
+规则：左边英文，右边写出中文意思。填完后告诉Claude批改。
+错1个及以上 = 需要第二轮。
+
+
+1. commission       ____________________错过
+2. commitment       ____________________承认
+3. commodity        ____________________社区
+4. communist        ____________________共产主义者
+5. comparable       ____________________可比较的
+6. compatible       ____________________兼容的
+7. compensate       ____________________赔偿
+8. competent        ____________________能力
+9. competitive      ____________________竞争性的
+10. complaint       ____________________抱怨
+11. complement      ____________________抱怨
+12. complex         ____________________复杂的
+13. complicated     ____________________包含的
+14. component       ____________________
+15. compose         ____________________作曲
+16. compound        ____________________
+17. comprehensive   ____________________全面的
+18. comprise        ____________________价格
+19. compromise      ____________________
+20. conceal         ____________________隐藏
+21. conceive        ____________________
+22. concentrate     ____________________
+23. concept         ____________________概念
+24. concerning      ____________________责怪
+25. concise         ____________________
+26. conclude        ____________________包含
+27. concrete        ____________________
+28. condemn         ____________________
+29. condense        ____________________
+30. confess         ____________________
+
+
+参考答案（批改用，不要偷看↓）
+============================================
+1. commission      n.委员会；佣金；委托
+2. commitment      n.承诺；献身；投入
+3. commodity       n.商品；日用品
+4. communist       n.共产主义者 adj.共产主义的
+5. comparable      adj.可比较的；比得上的
+6. compatible      adj.兼容的；合得来的
+7. compensate      v.补偿；赔偿；报酬
+8. competent       adj.有能力的；胜任的
+9. competitive     adj.竞争的；有竞争力的
+10. complaint      n.抱怨；投诉；疾病
+11. complement     v.补充 n.补充物；补语
+12. complex        adj.复杂的 n.综合体；情结
+13. complicated    adj.复杂的；难懂的
+14. component      n.组成部分；部件
+15. compose        v.组成；创作（乐曲、诗歌）
+16. compound       n.化合物 adj.复合的
+17. comprehensive  adj.全面的；综合的
+18. comprise       v.包含；由…组成
+19. compromise     v./n.妥协；折中
+20. conceal        v.隐藏；隐瞒
+21. conceive       v.构思；设想；怀孕
+22. concentrate    v.集中；浓缩 n.浓缩物
+23. concept        n.概念；观念
+24. concerning     prep.关于；涉及
+25. concise        adj.简洁的；简明的
+26. conclude       v.得出结论；结束；缔结
+27. concrete       adj.具体的；混凝土的 n.混凝土
+28. condemn        v.谴责；判刑
+29. condense       v.浓缩；压缩
+30. confess        v.坦白；承认；忏悔

@@ -1,0 +1,46 @@
+Day 7 六级高频词 #181-210 — 学习版
+============================================
+先背熟，再用自测文件测试。过关标准：24/30
+
+1. commission       n.委员会；佣金；委托
+2. commitment       n.承诺；献身；投入
+3. commodity        n.商品；日用品
+4. communist        n.共产主义者 adj.共产主义的
+5. comparable       adj.可比较的；比得上的
+6. compatible       adj.兼容的；合得来的
+7. compensate       v.补偿；赔偿；报酬
+8. competent        adj.有能力的；胜任的
+9. competitive      adj.竞争的；有竞争力的
+10. complaint       n.抱怨；投诉；疾病
+11. complement      v.补充 n.补充物；补语
+12. complex         adj.复杂的 n.综合体；情结
+13. complicated     adj.复杂的；难懂的
+14. component       n.组成部分；部件
+15. compose         v.组成；创作（乐曲、诗歌）
+16. compound        n.化合物 adj.复合的
+17. comprehensive   adj.全面的；综合的
+18. comprise        v.包含；由…组成
+19. compromise      v./n.妥协；折中
+20. conceal         v.隐藏；隐瞒
+21. conceive        v.构思；设想；怀孕
+22. concentrate     v.集中；浓缩 n.浓缩物
+23. concept         n.概念；观念
+24. concerning      prep.关于；涉及
+25. concise         adj.简洁的；简明的
+26. conclude        v.得出结论；结束；缔结
+27. concrete        adj.具体的；混凝土的 n.混凝土
+28. condemn         v.谴责；判刑
+29. condense        v.浓缩；压缩
+30. confess         v.坦白；承认；忏悔
+
+
+记忆技巧（助记）
+============================================
+- commission / commitment / committee → 都来自 commit（委托/承诺/提交）
+- compatible（兼容）← com(一起) + pati(承受) → 能一起承受的
+- compensate（补偿）← com(一起) + pens(称量) → 称量平衡 → 补偿
+- component / compose / compound / comprise → 都来自 com(一起) + ponere(放)
+- conceive（构思）← con(一起) + ceive(拿) → 脑子里拿在一起 → 构思
+- condemn（谴责）← con(加强) + demn(伤害) → 强烈伤害 → 谴责
+- condense（浓缩）← con(一起) + dense(密集) → 更密集 → 浓缩
+- confess（坦白）← con(完全) + fess(说) → 全说出来 → 坦白

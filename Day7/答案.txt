@@ -1,0 +1,105 @@
+"""
+def add_student_flow(manager):
+    print("\\n--- 添加学生 ---")
+    name = input("姓名: ").strip()
+    if not name:
+        print("❌ 姓名不能为空")
+        return
+    try:
+        age = int(input("年龄: ").strip())
+        score = float(input("成绩: ").strip())
+    except ValueError:
+        print("❌ 年龄和成绩必须是数字")
+        return
+    student = Student(name, age, score)
+    manager.add_student(student)
+    print(f"✅ 已添加: {student}")
+
+
+def list_students_flow(manager):
+    print("\\n--- 所有学生 ---")
+    students = manager.list_all()
+    if not students:
+        print("（暂无学生）")
+        return
+    for i, s in enumerate(students, 1):
+        print(f"{i}. {s}")
+
+
+def filter_flow(manager):
+    print("\\n--- 按成绩筛选 ---")
+    try:
+        min_score = float(input("最低分: ").strip())
+    except ValueError:
+        print("❌ 请输入数字")
+        return
+    count = 0
+    for student in manager.filter_students(min_score):
+        print(f"  {student}")
+        count += 1
+    if count == 0:
+        print("（没有符合条件的学生）")
+    else:
+        print(f"共 {count} 人成绩 >= {min_score}")
+
+
+def delete_flow(manager):
+    print("\\n--- 删除学生 ---")
+    name = input("要删除的学生姓名: ").strip()
+    if not name:
+        print("❌ 姓名不能为空")
+        return
+    removed = manager.remove_student(name)
+    if removed:
+        print(f"✅ 已删除: {removed}")
+    else:
+        print(f"❌ 未找到: {name}")
+
+
+def stats_flow(manager):
+    print("\\n--- 统计信息 ---")
+    stats = manager.get_statistics()
+    for key, value in stats.items():
+        print(f"  {key}: {value}")
+    top = manager.get_top_student()
+    if top:
+        student, score = top
+        print(f"  🏆 最高分学生: {student.name} ({score}分)")
+
+
+def main():
+    manager = StudentManager()
+    manager.add_student(Student("张三", 18, 85))
+    manager.add_student(Student("李四", 19, 92))
+    manager.add_student(Monitor("王五", 18, 78, "组织自习"))
+    manager.add_student(Student("赵六", 20, 55))
+
+    actions = {
+        '1': ('添加学生', add_student_flow),
+        '2': ('查看所有学生', list_students_flow),
+        '3': ('按成绩筛选', filter_flow),
+        '4': ('删除学生', delete_flow),
+        '5': ('统计信息', stats_flow),
+    }
+
+    while True:
+        try:
+            show_menu()
+            choice = input("请选择 (1-6): ").strip()
+            if choice == '6':
+                print("👋 再见！")
+                break
+            if choice in actions:
+                actions[choice][1](manager)
+            else:
+                print("❌ 无效选项，请输入 1-6")
+        except KeyboardInterrupt:
+            print("\\n👋 再见！")
+            break
+        except ValueError as e:
+            print(f"❌ 数据错误: {e}")
+
+
+if __name__ == "__main__":
+    main()
+"""
