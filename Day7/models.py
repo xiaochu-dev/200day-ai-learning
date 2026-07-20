@@ -46,10 +46,10 @@ class Student(Person):
         self._score = score
 
     @property
-    def scores(self):
-        return self.__scores
+    def score(self):
+        return self._score
 
-    @scores.setter
+    @score.setter
     def score(self, value):
         if not 0 <= value <= 100:
             raise ValueError(f"成绩必须在0-100之间，收到: {value}")

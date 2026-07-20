@@ -1,0 +1,57 @@
+Day 8 六级高频词 #211-240 — 学习版
+============================================
+先背熟，再用自测文件测试。过关标准：24/30
+
+1. confine          v.限制；禁闭
+2. confirm          v.确认；证实
+3. conflict         n.冲突；矛盾 v.冲突
+4. conform          v.遵守；符合；顺从
+5. confront         v.面对；对抗
+6. conscience       n.良心；良知
+7. conscious        adj.有意识的；清醒的
+8. consent          v./n.同意；许可
+9. consequence      n.后果；结果
+10. conservative    adj.保守的 n.保守派
+11. considerable    adj.相当多的；可观的
+12. considerate     adj.体贴的；考虑周到的
+13. consistent      adj.一致的；坚持的
+14. consolidate     v.巩固；合并
+15. conspicuous     adj.显眼的；引人注目的
+16. constant        adj.持续的；不变的 n.常数
+17. constitute      v.构成；组成
+18. constrain       v.限制；约束
+19. construct       v.建造；构建 n.构想
+20. consult         v.咨询；查阅
+21. consume         v.消耗；消费；吃
+22. contact         n./v.联系；接触
+23. contaminate     v.污染；玷污
+24. contemporary    adj.当代的；同时代的
+25. contempt        n.轻视；蔑视
+26. contend         v.竞争；主张；争论
+27. context         n.上下文；背景
+28. contradict      v.反驳；与…矛盾
+29. contrary        adj.相反的 n.反面
+30. contrast        n./v.对比；对照
+
+
+记忆技巧
+============================================
+con-(一起/加强) 打头的词继续增多：
+
+- confine / confirm / conform → 长得像但意思不同
+  confine = fine(边界) → 限制在边界内
+  confirm = firm(坚定) → 坚定确认
+  conform = form(形状) → 遵守统一形状
+
+- conscious（有意识的） ≠ conscience（良心）
+  conscious 有s有ous → "S"你醒着
+  conscience 有scie→科学→良心
+
+- considerable（相当多） ≠ considerate（体贴的）
+  considerable = 能(able)被考虑的 → 相当多的
+  considerate = ate → "他"很体贴
+
+- consistent（一致的）← con+sist(站)+ent → 站在一起 → 一致的
+- conspicuous（显眼）← con+spic(看)+uous → 大家都看 → 显眼
+- constitute（构成）← con+stitute(建立) → 共同建立 → 构成
+- constrain（约束）← con+strain(拉紧) → 拉紧 → 约束
