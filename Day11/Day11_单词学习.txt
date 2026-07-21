@@ -1,0 +1,28 @@
+Day 11 单词 — 核心词 #51-75
+============================================
+
+51. reflect — 反映；反射；思考
+52. source — 来源；源头
+53. track — 跟踪；轨道；踪迹
+54. adopt — 采用；收养
+55. desire — 欲望；渴望
+56. respond — 回应；回答
+57. despite — 尽管
+58. threat — 威胁
+59. charge — 收费；控告；责任
+60. release — 释放；发布；发行
+61. network — 网络；人际关系网
+62. range — 范围；一系列
+63. due — 由于；到期的；适当的
+64. suffer — 遭受；受苦
+65. reveal — 揭示；揭露
+66. colleague — 同事
+67. occur — 发生；出现
+68. engage — 参与；从事；吸引
+69. region — 地区；区域
+70. trend — 趋势；潮流
+71. associate — 联系；联想；交往
+72. invest — 投资；投入
+73. therefore — 因此；所以
+74. strategy — 策略；战略
+75. enable — 使能够
