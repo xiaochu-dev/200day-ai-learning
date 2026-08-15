@@ -1,0 +1,28 @@
+Day 20 单词学习 — Group 6 #26-50
+============================================
+
+ 1. consult          v. 请教，咨询；商议，商量；查阅
+ 2. prior            a. 在前的，优先的
+ 3. regulate         v. 管理，管制，控制；调拨，校准，调节
+ 4. sample           n. 样本，样品 / v. 抽样检查；品尝
+ 5. acknowledge      v. 承认（权威、地位）；告知收到；感谢
+ 6. extend           v. 伸展；扩大，延长；提供
+ 7. independent      a. 独立的；无偏见的；不相关的
+ 8. ingredient       n. 成分；要素
+ 9. assess           v. 估价，估算，估定；评价，评论
+10. authority        n. 官方；权力；权威；权威人士
+11. participate      vi.(in) 参加，加入，参与
+12. upgrade          v. 提升，使升级，改进 / n. 向上的斜坡
+13. delay            v.&n. 延迟，推迟；耽搁
+14. multiple         a. 多种多样的 / n. 倍数
+15. campus           n.（大学）校园
+16. conclude         v. 结束，终止；断定，下结论；缔结，议定
+17. trick            n. 诡计，花招；引起错觉的事物；欺诈
+18. finance          n. 财政，金融；资金 / v. 为...提供资金
+19. display          v.&n. 陈列，展览；显示，表现
+20. technical        a. 技术的，技能的
+21. integrate        v. 结合，合并，成为一体；融入（社会）
+22. stuff            n. 东西；活动，事情；原料 / v. 填满，填充
+23. trait            n.（人的性格）特征，特点
+24. remote           a. 偏僻的；远程的；疏远的；久远的
+25. proportion       n. 部分，份额；比例
