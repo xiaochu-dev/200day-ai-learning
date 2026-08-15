@@ -1,0 +1,28 @@
+Day 19 单词学习 — Group 6 #1-25
+============================================
+
+ 1. loan             n. 贷款，借款 / v. 借出，贷给
+ 2. insight          n. 洞察力；顿悟，猛醒
+ 3. alter            v. 转变，改变，更改；修改（服装）
+ 4. capable          a. 有能力的，有才能的；能干的
+ 5. remind           v. 使想起；提醒
+ 6. assert           vt. 明确肯定，断言；坚持自己的主张
+ 7. trial            n. 试验，试用；审判，审讯
+ 8. toxic            a. 有毒的，引起中毒的；卑鄙无耻的
+ 9. exhibit          vt. 显示；展出 / n. 展览品
+10. label            n. 标签；称谓 / v. 贴标签于；把...称为
+11. stage            n. 阶段；舞台；步骤 / v. 组织，筹划
+12. contrary         a. 相反的，相对立的 / n. 相反事物，对立面
+13. urge             vt. 敦促，竭力主张；激励 / n. 强烈的欲望
+14. illustrate       v. 举例说明，阐明；加插图于
+15. capture          v. 捕获；赢得，获得；记录，描述；占领
+16. tax              n. 税（款）/ v. 对...征税；使负重担
+17. abandon          v. 放弃；抛弃，遗弃 / n. 放纵，纵情
+18. attack           v.&n. 攻击 / n.（疾病的）突然发作
+19. notion           n. 观念，想法，看法
+20. convince         v. 使信服；说服
+21. context          n. 上下文，语境；背景，环境
+22. frequent         a. 频繁的，时常的
+23. phenomenon       n.(pl. phenomena) 现象
+24. vulnerable       a. 易受伤的，脆弱的；易受攻击的
+25. tackle           v. 阻截，擒抱；对付，处理（难题）
